@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and data
+*.log
+*.txt
+*.db
+*.s3db
+*.sqlite
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MacOS
+__MACOSX/
+*.DS_Store
+
+# Others
+airportinfo_error.txt
+nearestmetar_error.txt
+traffic_error.txt
+weather_error.txt
