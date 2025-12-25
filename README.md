@@ -52,7 +52,7 @@ Ce projet propose une suite de scripts Python pour interagir avec l’API RealTr
 - Une licence RealTraffic valide (fichier `RealTraffic.lic` ou clé à fournir en argument).
 - La base de données aéroportuaire fournie avec RealTraffic (`navdb.s3db`).
 
-#### Où placer le fichier `navdb.s3db` ?
+#### Où se trouve le fichier `navdb.s3db` ?
 
 - **Windows** : `C:\\Users\\<VotreNom>\\AppData\\Roaming\\InsideSystems\\navdb.s3db`
 - **Mac/Linux** : `~/Documents/.InsideSystems/navdb.s3db`
